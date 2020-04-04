@@ -16,10 +16,7 @@
     "mongodb": "^3.5.5"
   },
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bhNibir/node-mongo.git"
-  },
+  "repository": "git+https://github.com/bhNibir/node-mongo.git",
   "bugs": {
     "url": "https://github.com/bhNibir/node-mongo/issues"
   },
